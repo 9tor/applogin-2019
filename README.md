@@ -24,7 +24,7 @@ We want you to build a web application with the following requirements:
     User1 {
       name: 'User1',
       lastname: 'User',
-      username: 'user'
+      username: 'user',
       email: 'xxx@xx.com',
       mobile: '0800000000',
       status: true,
